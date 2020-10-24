@@ -1,3 +1,4 @@
 # Typescript boilerplate
 
-Check each branch
+## Branch basic webpack-basic
+- Go to `git checkout webpack-basic` 
